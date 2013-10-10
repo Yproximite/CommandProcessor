@@ -1,0 +1,13 @@
+{
+    "name": "yproximite/command-processor",
+    "description": "Command Processor",
+    "authors": [
+        {
+            "name": "Daniel Leech",
+            "email": "daniel@yproximite.com"
+        }
+    ],
+    "require": {
+
+    }
+}
