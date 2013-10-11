@@ -8,6 +8,8 @@
         }
     ],
     "require": {
-
+    },
+    "autoload": {
+        "psr-0": { "Ylly\\CommandProcessor": "lib" }
     }
 }
