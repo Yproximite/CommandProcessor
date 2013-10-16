@@ -36,6 +36,11 @@ class ProcessCommand implements CommandInterface
         return $this->methodString;
     }
 
+    public function getTitle()
+    {
+        return $this->getName();
+    }
+
     public function getDescription()
     {
         return $this->description;
